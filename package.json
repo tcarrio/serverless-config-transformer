@@ -1,6 +1,6 @@
 {
   "name": "@0xc/serverless-config-transformer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tcarrio/serverless-config-transformer.git"
+    "url": "git+https://git.sr.ht/~tcarrio/serverless-config-transformer"
   },
   "keywords": [
     "serverless",
