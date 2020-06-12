@@ -1,3 +1,5 @@
+[![builds.sr.ht status](https://builds.sr.ht/~tcarrio/serverless-config-transformer/.build.yml.svg)](https://builds.sr.ht/~tcarrio/serverless-config-transformer/.build.yml?) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # serverless-config-transformer
 
 A simple package for transforming the Serverless config at build time. This was
