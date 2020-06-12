@@ -21,6 +21,9 @@
     "type": "git",
     "url": "https://git.sr.ht/~tcarrio/serverless-config-transformer"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "serverless",
     "serverless plugin",
